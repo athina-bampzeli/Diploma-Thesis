@@ -3,7 +3,9 @@
 **Chemical Engineering Diploma Thesis**
 
 Author: Athina Bampzeli
+
 Supervisor: Professor Michael Georgiadis
+
 Institution: Aristotle University of Thessaloniki
 
 ## Abstract
