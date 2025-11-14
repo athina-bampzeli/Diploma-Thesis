@@ -1,4 +1,4 @@
-# Modelling, Simulation and Optimization of Milk Pasteurization and Membrane Filtration Integrated Processes
+# Modelling, Simulation and Optimization of Integrated Milk Pasteurization and Membrane Filtration Processes
 
 **Chemical Engineering Diploma Thesis**
 
@@ -17,5 +17,4 @@ Space
 | File                  | Language | Description                                       |
 |-----------------------|----------|---------------------------------------------------|
 | **`main.pdf`**            | English  | Thesis text                                   |
-| **`main.tex`**            | English  | Source code of thesis in LaTeX                |
 | **`presentation-el.pdf`** | Greek    | Thesis presentation                           |
