@@ -1,4 +1,4 @@
-# Modelling, Simulation and Optimization of Integrated Milk Pasteurization and Membrane Filtration Processes
+# Modeling, Simulation and Optimization of Integrated Milk Pasteurization and Membrane Filtration Processes
 
 **Chemical Engineering Diploma Thesis**
 
@@ -16,5 +16,4 @@ This thesis presents a dynamic, integrated process design and simulation framewo
 
 | File                  | Language | Description                                       |
 |-----------------------|----------|---------------------------------------------------|
-| **`main.pdf`**            | English  | Thesis text                                   |
-| **`presentation-el.pdf`** | Greek    | Thesis presentation                           |
+| **`Diploma_Thesis_Athina_Bampzeli.pdf`**            | English  | Thesis text         |
