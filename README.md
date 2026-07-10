@@ -14,9 +14,9 @@ This thesis presents a dynamic, integrated process design and simulation framewo
 
 ## Key files
 
-| File                  | Language | Description                                            |
-|-----------------------|----------|--------------------------------------------------------|
-| **`Diploma_Thesis_Athina_Bampzeli.pdf`**            | English  | Thesis text              |
-| **`Diploma_thesis_presentation_english.pptx`**      | English  | Thesis presentation      |
-| **`Diploma_thesis_presentation_greek.pptx`**        | Greek    | Thesis presentation      |
-| **`Publication_presentation_greek.pptx`**           | Greek    | Publication presentation |
+| File                  | Language | Description                                            |Duration |
+|-----------------------|----------|--------------------------------------------------------|---------|
+| **`Diploma_Thesis_Athina_Bampzeli.pdf`**            | English  | Thesis text              |-        |
+| **`Diploma_thesis_presentation_english.pptx`**      | English  | Thesis presentation      |18 min   |
+| **`Diploma_thesis_presentation_greek.pptx`**        | Greek    | Thesis presentation      |20 min   |
+| **`Publication_presentation_greek.pptx`**           | Greek    | Publication presentation |12 min   |
